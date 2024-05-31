@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/waneck/mcli.svg?branch=master)](https://travis-ci.org/waneck/mcli)
+## mcli
 
-#mcli
+[![Build Status](https://travis-ci.org/waneck/mcli.svg?branch=master)](https://travis-ci.org/waneck/mcli)
 
 ## Description
 mcli is a simple, opinionated and type-safe way to create command line interfaces.
